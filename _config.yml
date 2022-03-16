@@ -1,0 +1,8 @@
+# theme: jekyll-theme-minimal
+title: "AI for Computational Creativity | NSF REU Site | Brown Computer Science"
+
+plugins:
+- jekyll-redirect-from
+    
+whitelist:
+- jekyll-redirect-from

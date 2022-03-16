@@ -1,0 +1,38 @@
+[
+    {
+        "date": "October 1",
+        "name": "Applications open"
+    },
+    {
+        "date": "December 1",
+        "name": "Application deadline"
+    },
+    {
+        "date": "Early January",
+        "name": "Admission decisions announced"
+    },
+    {
+        "date": "Late January",
+        "name": "Program kick-off meeting"
+    },
+    {
+        "date": "February",
+        "name": "Workshop on the graduate school application process"
+    },
+    {
+        "date": "March",
+        "name": "Observe research comps proposal<br/>Graduate student Q&A panel"
+    },
+    {
+        "date": "April",
+        "name": "Observe thesis proposal<br/>Observe faculty candidate talk"
+    },
+    {
+        "date": "May",
+        "name": "Observe comps defense<br/>Observe thesis defense"
+    },
+    {
+        "date": "May 5",
+        "name": "Participate in Brown CS Undergraduate Research Symposium"
+    }
+]

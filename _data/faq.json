@@ -1,0 +1,70 @@
+[
+    {
+        "question": "I am an undergraduate student in my first/second/third/fourth year [pick as appropriate]. Am I eligible to apply?",
+        "answer": "Yes!"
+    },
+    {
+        "question": "I am an undergraduate student in my final year; I will graduate in 2022. Am I eligible to apply?",
+        "answer": "Yep!"
+    },
+    {
+        "question": "I am an undergraduate student from [some university/college]. Am I eligible to apply?",
+        "answer": "You are eligible to apply if your college/university is located in one of the following states/territories: Washington DC, Virginia, Maryland, Delaware, Pennsylvania, New York, New Jersey, Rhode Island, Massachussetts, Connecticut, Vermont, New Hampshire, or Maine."
+    },
+    {
+        "question": "I am an international student attending a US college/university in one of the states/territories listed above. Am I eligble to apply?",
+        "answer": "For sure!"
+    },
+    {
+        "question": "Is this program only for Brown University undergraduate students?",
+        "answer": "No; we like the rest of you too ; )"
+    },
+    {
+        "question": "Is this program only for underrepresented groups or [x] students?",
+        "answer": "The goal of the exploreCSR program is to support students from underrepresented groups to pursue graduate studies and research careers in computing <a href='https://research.google/outreach/explore-csr/'>(here)</a>. We will consider all applicants, but our focus is on this goal."
+    },
+    {
+        "question": "I am a masters or PhD student. Am I eligible to apply?",
+        "answer": "We're afraid not, no."
+    },
+    {
+        "question": "Do you run any other research programs like exploreCSR for graduate students?",
+        "answer": "No, sorry."
+    },
+    {
+        "question": "I'm a high school student. Am I eligible to apply?",
+        "answer": "Again, we're afraid not, no."
+    },
+    {
+        "question": "I am on a gap year but will be starting soon/returning soon. Am I eligible to apply?",
+        "answer": "Sorry, no."
+    },
+    {
+        "question": "I'm not an undergraduate student yet, but I know a lot! I'm even taking a CS course at a university in my spare time!",
+        "answer": "I'm afraid we still won't take you, sorry."
+    },
+    {
+        "question": "Are the applications first come, first serve?",
+        "answer": "No. We will consider all applications received by the deadline (December 1st, 2021) in one go."
+    },
+    {
+        "question": "The application form asks for a transcript. Should I wait to add my grades from this semester or should I submit without?",
+        "answer": "Our application deadline is December 1st, 2021&mdash;please submit what you have available by then. Please don't email us a transcript, either now or later on; please just resubmit your application."
+    },
+    {
+        "question": "I am a first-year/freshperson undergraduate and I don't yet have a transcript. What should I do?",
+        "answer": "Please submit whatever you can through the upload form to give us some indication&mdash;we understand that it isn't simple for people in your position."
+    },
+    {
+        "question": "How much detail should I put into the questions on the form, e.g., about research interests? Are you looking for a 'research statement'?",
+        "answer": "Short and to the point, please! One or two paragraphs is fine. We're not looking for a research statement; we'd just like to be able to match you to the right people and projects."
+    },
+    {
+        "question": "I didn't receive a confirmation of my application. Can you confirm receipt?",
+        "answer": "It almost certainly went through. If you're worried, submit another one! We'll pick up the latest submitted on January 1st. No need to email us for this one."
+    },
+    {
+        "question": "I submitted my form, but received the error: '(You can't respond to exploreCSR 2021-2022: Socially Responsible AI for Computational Creativity. Uploading files is not permitted when data loss prevention is enabled for your domain. Contact your domain administrator if you think this is a mistake.).' What should I do?",
+        "answer": "It looks like your institution does not support file uploads via Google Forms. You should be able to get around this by filling out the form while logged into to a personal (i.e. non-college-affiliated) Google account (you'd have one of these if you have a personal Gmail address, for instance)."
+    }
+]

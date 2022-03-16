@@ -1,0 +1,62 @@
+[
+    {
+        "img": "scenesynth",
+        "caption": "Students in Daniel Ritchie's lab created a data-driven generative model that can synthesize new virtual bedrooms and other types of 3D indoor scenes.",
+        "link_target": "https://arxiv.org/abs/1811.12463"
+    },
+    {
+        "img": "zonegraphs",
+        "caption": "Students in Daniel Ritchie's lab trained a neural network to 'reverse engineer' CAD modeling sequences for 3D shapes.",
+        "link_target": "http://pwz.mit.edu/projects/ZG/"
+    },
+    {
+        "img": "roominoes",
+        "caption": "Students in Daniel Ritchie's lab built a system for creating new 3D floor plans by automatically recombining rooms from existing floor plans.",
+        "link_target": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang"
+    },
+    {
+        "img": "shapeassembly",
+        "caption": "Students in Daniel Ritchie's lab trained a neural network to write programs that generate structured 3D shapes, such as chairs.",
+        "link_target": "https://rkjones4.github.io/shapeAssembly.html"
+    },
+    {
+        "img": "attnguided",
+        "caption": "Students in James Tompkin's lab trained a neural network to transmogrify images of animals without altering the image background.",
+        "link_target": "https://arxiv.org/abs/1806.02311"
+    },
+    {
+        "img": "gaussigan",
+        "caption": "Students in James Tompkin's lab trained a neural network to automatically recover control rigs for animals to generate new posable imagery.",
+        "link_target": "https://visual.cs.brown.edu/gaussigan"
+    },
+    {
+        "img": "genhandwriting",
+        "caption": "Students in James Tompkin's lab created a neural generative model that can learn to write in your handwriting and represent all kinds of different styles.",
+        "link_target": "https://dsd.cs.brown.edu/"
+    },
+    {
+        "img": "humor",
+        "caption": "Students and collaborators of Srinath Sridhar built a method to learn how humans move.",
+        "link_target": "https://geometry.stanford.edu/projects/humor/"
+    },
+    {
+        "img": "pix2surf",
+        "caption": "Students and collaborators of Srinath Sridhar built a method to build high-quality models of objects from only a few images.",
+        "link_target": "https://geometry.stanford.edu/projects/pix2surf/"
+    },
+    {
+        "img": "draco",
+        "caption": "Students and collaborators of Srinath Sridhar lab built a method for learning to reconstruct objects in a canonical space enabling robots to find and manipulate them.",
+        "link_target": "https://aadilmehdis.github.io/DRACO-Project-Page/"
+    },
+    {
+        "img": "videobert",
+        "caption": "Chen Sun and his students designed algorithms to illustrate sentences, anticipate future events, and learn visual commonsense, all by asking computers to watch videos on YouTube.",
+        "link_target": "https://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html"
+    },
+    {
+        "img": "episodictransformer",
+        "caption": "Chen Sun and his students build agents that follow human instructions and perform highly compositional tasks.",
+        "link_target": "https://arxiv.org/abs/2105.06453"
+    }
+]
