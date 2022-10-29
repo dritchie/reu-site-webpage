@@ -10,6 +10,11 @@
         "link_target": "http://pwz.mit.edu/projects/ZG/"
     },
     {
+        "img": "portalware-sketching.png",
+        "caption": "Students in Jeff Huang's lab built a tool for freehand drawing using just your hands in augmented reality on phones.",
+        "link_target": "https://portalble.cs.brown.edu/"
+    },
+    {
         "img": "roominoes.png",
         "caption": "Students in Daniel Ritchie's lab built a system for creating new 3D floor plans by automatically recombining rooms from existing floor plans.",
         "link_target": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang"
@@ -23,6 +28,11 @@
         "img": "attnguided.png",
         "caption": "Students in James Tompkin's lab trained a neural network to transmogrify images of animals without altering the image background.",
         "link_target": "https://arxiv.org/abs/1806.02311"
+    },
+    {
+        "img": "portalble-depthsensor.png",
+        "caption": "Students in Jeff Huang's lab enable fine-grained interaction with virtual objects in augmented reality on phones.",
+        "link_target": "https://portalble.cs.brown.edu/"
     },
     {
         "img": "gaussigan.png",
@@ -58,5 +68,10 @@
         "img": "episodictransformer.png",
         "caption": "Chen Sun and his students build agents that follow human instructions and perform highly compositional tasks.",
         "link_target": "https://arxiv.org/abs/2105.06453"
+    },
+    {
+        "img": "filteredink-fishing.svg",
+        "caption": "Students in Jeff Huang's lab build a tool for illustrations that applies dynamic filters to the ink.",
+        "link_target": "https://filtered.ink/"
     }
 ]

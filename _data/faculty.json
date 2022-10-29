@@ -1,15 +1,15 @@
 [
     {
-        "name": "James Tompkin",
-        "photo_id": "james",
-        "homepage": "http://jamestompkin.com/",
-        "areas": "Creating, editing, and manipulating images and video"
-    },
-    {
         "name": "Daniel Ritchie",
         "photo_id": "daniel",
         "homepage": "https://dritchie.github.io",
         "areas": "Creating, editing, and analyzing 3D structures"
+    },
+    {
+        "name": "James Tompkin",
+        "photo_id": "james",
+        "homepage": "http://jamestompkin.com/",
+        "areas": "Creating, editing, and manipulating images and video"
     },
     {
         "name": "Stefanie Tellex",
@@ -30,33 +30,9 @@
         "areas": "3D vision + ML for understanding human physical interactions"
     },
     {
-        "name": "Ellie Pavlick",
-        "photo_id": "ellie",
-        "homepage": "https://cs.brown.edu/people/epavlick/",
-        "areas": "Getting computers to understand language the way people do"
-    },
-    {
-        "name": "Jeff Huang",
-        "photo_id": "jeff",
-        "homepage": "https://jeffhuang.com/",
-        "areas": "Building personalized systems based on user behavior data"
-    },
-    {
         "name": "David Laidlaw",
         "photo_id": "david",
         "homepage": "http://cs.brown.edu/~dhl/",
         "areas": "Using (VR) visualization to help scientists understand their data"
-    },
-    {
-        "name": "Ian Gonsher",
-        "photo_id": "ian",
-        "homepage": "https://www.gonsherdesign.com/about",
-        "areas": "Design, the creative process, and emerging technologies"
-    },
-    {
-        "name": "Gabriel Taubin",
-        "photo_id": "gabriel",
-        "homepage": "http://mesh.brown.edu/taubin/",
-        "areas": "3D scanning and digital fabrication"
     }
 ]
