@@ -28,11 +28,5 @@
         "photo_id": "srinath",
         "homepage": "https://srinathsridhar.com",
         "areas": "3D vision + ML for understanding human physical interactions"
-    },
-    {
-        "name": "David Laidlaw",
-        "photo_id": "david",
-        "homepage": "http://cs.brown.edu/~dhl/",
-        "areas": "Using (VR) visualization to help scientists understand their data"
     }
 ]
