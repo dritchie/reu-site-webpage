@@ -18,15 +18,21 @@
         "areas": "Empowering every person with a collaborative robot"
     },
     {
+        "name": "Nora Ayanian",
+        "photo_id": "nora",
+        "homepage": "https://engineering.brown.edu/people/nora-ayanian",
+        "areas": "How can we enable almost anyone to use teams of robots?"
+    },
+    {
         "name": "Chen Sun",
         "photo_id": "chen",
         "homepage": "https://chensun.me/",
-        "areas": "Video + language understanding"
+        "areas": "Multimodal machine learning for computer vision to help language understanding, robotics, and social science"
     },
     {
         "name": "Srinath Sridhar",
         "photo_id": "srinath",
         "homepage": "https://srinathsridhar.com",
-        "areas": "3D vision + ML for understanding human physical interactions"
+        "areas": "3D vision & machine learning for understanding human physical interactions"
     }
 ]
