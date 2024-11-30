@@ -3,7 +3,7 @@
         "name": "Daniel Ritchie",
         "photo_id": "daniel",
         "homepage": "https://dritchie.github.io",
-        "areas": "Creating, editing, and analyzing 3D structures"
+        "areas": "Creating, editing, and analyzing 3D objects and scenes"
     },
     {
         "name": "James Tompkin",
@@ -12,10 +12,16 @@
         "areas": "Creating, editing, and manipulating images and video"
     },
     {
-        "name": "Nora Ayanian",
-        "photo_id": "nora",
-        "homepage": "https://engineering.brown.edu/people/nora-ayanian",
-        "areas": "How can we enable almost anyone to use teams of robots?"
+        "name": "Ritambhara Singh",
+        "photo_id": "rita",
+        "homepage": "https://ritambharasingh.com/",
+        "areas": "Machine learning for biological and biomedical applications"
+    },
+    {
+        "name": "Srinath Sridhar",
+        "photo_id": "srinath",
+        "homepage": "https://srinathsridhar.com",
+        "areas": "3D vision & machine learning for understanding human physical interactions"
     },
     {
         "name": "Chen Sun",
@@ -24,9 +30,9 @@
         "areas": "Multimodal machine learning for computer vision to help language understanding, robotics, and social science"
     },
     {
-        "name": "Srinath Sridhar",
-        "photo_id": "srinath",
-        "homepage": "https://srinathsridhar.com",
-        "areas": "3D vision & machine learning for understanding human physical interactions"
+        "name": "Randall Balestriero",
+        "photo_id": "randall",
+        "homepage": "https://randallbalestriero.github.io/",
+        "areas": "Practical theory for machine learning"
     }
 ]
